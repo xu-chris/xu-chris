@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello engineer :shipit:
+----
 
-<!--
-**creichel/creichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Chris, a Human Computer Interactivist with the mission to humanate the use of our silicon companion objects :computer: :fax: :pager:. 
 
-Here are some ideas to get you started:
+`position: absolute;` With my open source projects, I want to emphasize the freedom of knowledge :brain:, freedom of speech 🗣 and privacy by design :lock:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fork, contribute and share however you like.
+
+----
+<a href="https://img.shields.io/badge/Twitter-%40cr__lab-blue" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40cr__lab-blue" alt="Follow me on Twitter" /></a>
+
+----
+
+[![Chris' github stats](https://github-readme-stats-git-master.creichel.vercel.app/api?username=creichel&show_icons=true)](https://github.com/creichel/github-readme-stats)
+[![Top programming languages](https://github-readme-stats-git-master.creichel.vercel.app/api/top-langs/?username=creichel&?hide_langs_below=1)](https://github.com/creichel/github-readme-stats)
