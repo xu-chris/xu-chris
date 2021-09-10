@@ -17,5 +17,5 @@ Fork, contribute and share [however you like](https://en.wikipedia.org/wiki/WTFP
 
 ----
 
-[![Chris' github stats](https://github-readme-stats-git-master.creichel.vercel.app/api?username=creichel&show_icons=true)](https://github.com/creichel/github-readme-stats)
-[![Top programming languages](https://github-readme-stats-git-master.creichel.vercel.app/api/top-langs/?username=creichel&?hide_langs_below=1)](https://github.com/creichel/github-readme-stats)
+[![Chris' github stats](https://github-readme-stats-git-master.creichel.vercel.app/api?username=xu-chris&show_icons=true)](https://github.com/xu-chris/github-readme-stats)
+[![Top programming languages](https://github-readme-stats-git-master.creichel.vercel.app/api/top-langs/?username=xu-chris&?hide_langs_below=1)](https://github.com/xu-chris/github-readme-stats)
