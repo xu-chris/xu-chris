@@ -12,8 +12,8 @@ Fork, contribute and share [however you like](https://en.wikipedia.org/wiki/WTFP
 
 ----
 ### Wanna get in touch with me?
-<a href="https://twitter.com/cr_lab" target="_blank"><img src="https://img.shields.io/twitter/follow/cr_lab?color=blue&logo=twitter&logoColor=white&style=plastic" alt="Follow me on Twitter" /></a>
-<a href="https://github.com/creichel" target="_blank"><img src="https://img.shields.io/github/followers/creichel?color=purple&label=Github&logo=github&logoColor=white&style=plastic" alt="Follow me on GitHub" /></a>
+<a href="https://twitter.com/common_ux" target="_blank"><img src="https://img.shields.io/twitter/follow/common_ux?color=blue&logo=twitter&logoColor=white&style=plastic" alt="Follow me on Twitter" /></a>
+<a href="https://github.com/xu-chris" target="_blank"><img src="https://img.shields.io/github/followers/xu-chris?color=purple&label=Github&logo=github&logoColor=white&style=plastic" alt="Follow me on GitHub" /></a>
 
 ----
 
